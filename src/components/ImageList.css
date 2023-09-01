@@ -1,0 +1,12 @@
+.ImageList{
+columns: 4;
+}
+
+.ImageList img {
+    width: 400px;
+    height: 220px;
+}
+
+h2{
+    text-align: center;
+}
